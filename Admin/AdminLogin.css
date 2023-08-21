@@ -1,0 +1,45 @@
+.login-block {
+    float: left;
+    width: 30%;
+    padding: 50px 0;
+  }
+  
+  .container1 {
+    background: #D3D3D3;
+    border-radius: 10px;
+    width: 30%; /* Adjust the width as per your requirements */
+    height: 40%; /* Adjust the height as per your requirements */
+    padding: 20px; /* Add padding for better aesthetics */
+    max-width: 30%;
+    margin: auto;
+  }
+  
+  .login-sec {
+    padding: 50px 30px;
+    position: relative;
+  }
+  
+  .login-sec-heads {
+    margin-bottom:30px; 
+  font-weight:800; 
+  text-align:center;
+  text-transform:underline;
+  font-size:30px; 
+  color: #0069c0;
+}
+
+  
+  .btn-login {
+    background-color: #0069c0; 
+    border: none; 
+    color: white; 
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    cursor: pointer; 
+    float: right;
+    border-radius: 4px;
+  }
+  

@@ -1,0 +1,31 @@
+.register-block{
+    float:left;
+    width:100%;
+    padding : 50px 0;
+}
+
+.reg-container {
+    background: #D3D3D3;
+    border-radius: 10px;
+    width: 30%; /* Adjust the width as per your requirements */
+    height: 30%; /* Adjust the height as per your requirements */
+    padding: 20px; /* Add padding for better aesthetics */
+    max-width: 30%;
+    margin: auto;
+  }.register-sec{padding: 50px 30px; position:relative;}
+.register-sec h2{margin-bottom:30px; font-weight:800; font-size:30px; color: #0069c0;}
+.register-sec h2:after{content:" "; width:100px; height:5px; background:#6ec6ff; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+.btn-register{
+    background-color: #0069c0; 
+    border: none; 
+    color: white; 
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; 
+    cursor: pointer; 
+    float: right;
+    border-radius: 4px;
+  }
+
